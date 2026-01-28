@@ -1,8 +1,0 @@
-{
-  "name": "Plaxonic Webinar Manager",
-  "description": "A high-fidelity webinar landing page and administrative management dashboard for scheduling and customizing enterprise-grade virtual events.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
