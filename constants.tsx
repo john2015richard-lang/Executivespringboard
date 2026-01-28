@@ -28,7 +28,7 @@ export const INITIAL_WEBINARS: WebinarData[] = [
       {
         name: "STEVE MOSS",
         title: "President @ Executive Springboard",
-        image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1000&auto=format&fit=crop",
+        image: "https://github.com/john2015richard-lang/Executivespringboard/blob/main/public/images/1658793452064.jpeg",
         label: "YOUR HOST",
         badgeBg: "#f39c12",
         badgeColor: "#ffffff",
