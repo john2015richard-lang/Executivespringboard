@@ -37,14 +37,14 @@ export const INITIAL_WEBINARS: WebinarData[] = [
       {
         name: "LUIS MORENO",
         title: "Executive Advisor @ Peak Global",
-        image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1000&auto=format&fit=crop",
+        image: "https://github.com/john2015richard-lang/Executivespringboard/blob/main/public/images/guest.png",
         label: "SPECIAL GUEST",
         badgeBg: "#f39c12",
         badgeColor: "#ffffff",
         bio: "Former VP Marketing, Synchrony. Co-founder and Board Member, Twin Cities Business Peer Network, Advisory Board Member, Argosy University. Marketing Leader, NewPublica. Adjunct Professor, Leadership & Management, University of Minnesota."
       }
     ],
-    logoImage: "https://plaxonic.com/wp-content/uploads/2023/12/logo.png",
+    logoImage: "https://github.com/john2015richard-lang/Executivespringboard/blob/main/public/images/header-logo.webp",
     logoHeight: 56,
     themeColor: "#007bff",
     isActive: true,
